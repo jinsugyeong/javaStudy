@@ -1,4 +1,4 @@
-package Dec.four;
+package book.ch7;
 
 public class C7_2 {
 
