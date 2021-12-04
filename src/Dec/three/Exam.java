@@ -1,4 +1,4 @@
-package three.Dec;
+package Dec.three;
 
 
 public class Exam {

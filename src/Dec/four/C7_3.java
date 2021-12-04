@@ -1,4 +1,4 @@
-package four.Dec;
+package Dec.four;
 
 import java.util.Arrays;
 

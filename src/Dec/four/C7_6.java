@@ -1,4 +1,4 @@
-package four.Dec;
+package Dec.four;
 /*문제6번.
 어떤 프린터 용지를 사용했는지 점검하려고 다음 프로그램을 작성했다.
 Call 클래스를 완성하시오.

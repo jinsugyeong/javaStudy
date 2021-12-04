@@ -1,4 +1,4 @@
-package four.Dec;
+package Dec.four;
 
 public class C7_1 { //추상클래스도 생성자를 가질 수 있다.
 

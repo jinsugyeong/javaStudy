@@ -1,4 +1,4 @@
-package four.Dec;
+package Dec.four;
 
 public class C7_4 {
 
