@@ -41,8 +41,12 @@ public class Exam {
 		
 		
 		//무명 클래스->람다식 코드
-		Controllable tv = (x) -> {};
-	
+		Controllable tv = (x) -> {
+			if(x == true)
+				System.out.println(who+"가 TV 전원을 켠다");
+			else
+				System.out.println(who+"가 TV 전원을 끈다");
+		};
 		
 		tv.power(true);
 		tv.power(false);
