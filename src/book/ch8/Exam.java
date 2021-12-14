@@ -52,6 +52,7 @@ public class Exam {
 		tv.power(false);
 		tv.repair();
 		
+		
 	}
 
 }
